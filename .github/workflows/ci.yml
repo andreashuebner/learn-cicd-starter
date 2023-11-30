@@ -18,5 +18,5 @@ jobs:
       - name: Check out code
         uses: actions/checkout@v3
 
-      - name: Show go version
+      - name: Show go version2
         run: go version
